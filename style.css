@@ -208,13 +208,13 @@ header nav ul li:not(.btn) a:hover {
 }
 .services {
     font-weight: 600;
-    color: black;
+    color: whitesmoke;
     text-align: right;
     margin-top: 500px;
     position: relative;
     height: 1600px;
     width: 1400px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(13, 117, 56);
     border-radius: 25px;
 }
 .services p {
@@ -239,7 +239,7 @@ header nav ul li:not(.btn) a:hover {
 .services ul {
     top: 350;
     position: absolute;
-    color: black;
+    color: whitesmoke;
     text-align: left;
     border-radius: 25px;
     padding: 35px;
